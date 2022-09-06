@@ -25,7 +25,7 @@ class FragmentLogin : Fragment() {
     // check if username and password is valid (copilot)
     private fun isValid(username: String, password: String): Boolean {
         return accepted.contains(username to password)
-    }
+    }//dss
 
 
 
